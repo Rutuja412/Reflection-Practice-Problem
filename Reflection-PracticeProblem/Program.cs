@@ -7,6 +7,7 @@ namespace Reflection_PracticeProblem
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Reflection practice problem ");
+            ClosestsNumber.FindClosestsNumber();
         }
     }
 }
